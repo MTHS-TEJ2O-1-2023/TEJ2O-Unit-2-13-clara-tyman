@@ -21,7 +21,7 @@ neopixelStrip.setPixelColor(3, neopixel.colors(NeoPixelColors.Black))
 neopixelStrip.show()
 
 // press "A" button
-input.onButtonPressed(Button.A, function (){
+input.onButtonPressed(Button.A, function () {
   // setup
   basic.clearScreen()
 
